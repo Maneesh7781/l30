@@ -8,3 +8,5 @@ int main(){
 			break;
 		case 3: printf("btech ece");
 			break;
+		case 4: printf("btech mech");
+			break;
