@@ -4,3 +4,5 @@ int main(){
 	switch(var){
 		case 1: printf("btech aiml");
 			break;
+		case 2: printf("btech cse");
+			break;
