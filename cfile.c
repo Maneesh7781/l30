@@ -3,6 +3,8 @@ int main(){
 	int var;
 	switch(var){
 		case 1: printf("btech aiml");
+			 printf("btech aiml");
+
 			break;
 		case 2: printf("btech cse");
 			break;
